@@ -1,0 +1,12 @@
+div {
+    margin-top: 20%;
+    font-size: 16px;
+    color: slategrey;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-size: 38px;
+    font-weight: bold;
+}
