@@ -1,0 +1,11 @@
+
+.ul {
+    display: flex;
+    column-gap: 15px;
+}
+
+.ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}

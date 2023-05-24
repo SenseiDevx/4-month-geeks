@@ -1,0 +1,19 @@
+
+.about h2 {
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+
+.imgs {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about button {
+    margin-top: 30px;
+    width: 100px;
+    height: 50px;
+}
